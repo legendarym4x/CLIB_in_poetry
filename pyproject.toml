@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "web-hw-02-01"
+version = "0.1.0"
+description = "This project is a console bot, developed for keeping contact details, notes and sorting the data."
+authors = ["legendarym4x <maxwel842@gmail.com>"]
+readme = "README.md"
+packages = [{include = "web_hw_02"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+requests = "^2.31.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
