@@ -21,6 +21,7 @@ ____
 This project is a console application, developed for keeping contact details, notes, and for searching, editing,
 and sorting the data. The main functions include: 
 
+
 ### Book of Contacts
 - **Keeping contact details**: Add contacts with names, addresses, phone numbers, email addresses, and birthdays.
 - **Outputting contacts by birthdate**: Search and output a list of contacts whose birthday occur in a specified number
